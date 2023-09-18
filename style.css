@@ -6,7 +6,6 @@ hi {
     background: #CCCCCC;
 }
 body {
-    background: #CCCCCC;
 }
 
 em strong {
@@ -18,7 +17,7 @@ em strong {
 }
 
 em strong {
-    color: #FF0000;
+    color: #FFFFFF;
 
 #banner {
     width: 100%;
@@ -26,4 +25,8 @@ em strong {
 
  .itens {
     font-style: italic;
+     
  }
+
+.principal {
+    background; #CCCCCC;
