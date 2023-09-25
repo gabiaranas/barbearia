@@ -30,3 +30,12 @@ em strong {
 
 .principal {
     background; #CCCCCC;
+
+    .imagembeneficios {
+        width: 50%;
+    }
+
+    ul {
+        display: inline-block;
+    }
+    
