@@ -39,3 +39,10 @@ em strong {
         display: inline-block;
     }
     
+h2 {
+    text-align:center;
+}
+
+.beneficios {
+    background; #FFFFFF;
+    padding: 20px;
